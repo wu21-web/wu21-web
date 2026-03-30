@@ -6,7 +6,7 @@
 
 ### 👋 About Me
 
-- 🧑‍💻 I'm **wu21-web**, an amateur developer who spends most of the time at school *(I hate it 😤)* — so my GitHub stats are a little… *wimpy*. But I'm working on it!
+- 🧑‍💻 I'm **wu21-web**, an amateur developer who spends most of the time at school *(I hate it)* — so my GitHub stats are a little… *wimpy*. But I'm working on it!
 - 📍 Currently living in **China**, but my IP says Japan (thanks to a proxy).
 - 🎀 **Femboy** & anime lover — call me whatever you like, I'm chill 🏳️‍🌈.
 - 🧠 Currently diving into **Android**, **OpenGL**, and **Vulkan** — graphics programming is my new obsession.
