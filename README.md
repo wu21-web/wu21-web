@@ -5,10 +5,13 @@
 ---
 
 ### 👋 About Me
-- 🎀 I'm **wu21-web**, an amateur developer who spends most of the time at school *(I hate it)* — so my GitHub stats are a little… *wimpy*. But I'm working on it!
-- 📍 Currently living in **China**, but my IP says Japan (thanks to a proxy).
-- ♀️ **Femboy** & anime lover — call me whatever you like, I'm chill 👗.
+- 🎀 I'm **wu21-web**, an amateur developer.
+- 📍 Currently living in **China**.
+- ♀️ **Femboy** & anime lover.
 - 🧠 Currently diving into **Android**, **OpenGL**, and **Vulkan** — graphics programming is my new obsession.
+
+**BEAUTIFUL FLAG.webp**
+<img width="768" height="460" alt="mysterious" src="https://github.com/user-attachments/assets/512bb2e9-d6aa-46a4-a606-23156a980bcd" />
 
 ---
 
