@@ -10,8 +10,7 @@
 - ♀️ **Femboy** & anime lover.
 - 🧠 Currently diving into **Android**, **OpenGL**, and **Vulkan** — graphics programming is my new obsession.
 
-**BEAUTIFUL FLAG.webp**
-<img width="768" height="460" alt="mysterious" src="https://github.com/user-attachments/assets/512bb2e9-d6aa-46a4-a606-23156a980bcd" />
+  
 
 ---
 
