@@ -59,6 +59,5 @@
 </p>
 
 <p align="center">
-  <i>“Keep coding, keep learning, and stay cute.”</i><br>
-  — wu21-web 🌸
+  🌸
 </p>
