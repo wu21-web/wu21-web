@@ -8,9 +8,6 @@
 - 🎀 I'm **wu21-web**, an amateur developer.
 - 📍 Currently living in **China**.
 - ♀️ **Femboy** & anime lover.
-- 🧠 Currently diving into **Android**, **OpenGL**, and **Vulkan** — graphics programming is my new obsession.
-
-  
 
 ---
 
@@ -33,10 +30,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### 🚀 Currently Learning
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
 
 #### 🧰 Tools & Environment
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
@@ -44,15 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
-
-### ✨ Fun Facts
-
-- 📖 I love anime — feel free to recommend me your favorites!
-- 🎮 I’m into graphics programming because making things *look cool* is just too satisfying.
-- 🧪 My stats may be small, but my ambition is big (and my code is getting better every day).
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
