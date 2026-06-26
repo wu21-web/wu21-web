@@ -2,7 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+wu21-web's+world+%F0%9F%8C%8C;Cute+%7C+Code+%7C+Creativity" alt="Typing SVG" />
 </p>
 
-[![wu21-web's profile](https://count.getloli.com/@wu21-web?name=wu21-web%27s+profile&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://count.getloli.com/@wu21-web)
+<p align="center">
+  <a href="https://count.getloli.com/@wu21-web">
+    <img src="https://count.getloli.com/@wu21-web?name=wu21-web%27s+profile&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="wu21-web's profile counter" />
+  </a>
+</p>
 ---
 
 ### 👋 About Me
