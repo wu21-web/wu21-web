@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@wu21-web" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@wu21-web" alt="Visitor Count" width="450" />
 </p>
 
 ---
