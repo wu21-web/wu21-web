@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/wu21-web/wu21-web/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
